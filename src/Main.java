@@ -38,13 +38,9 @@ public class Main {
         System.out.println(b2 - b1);
         System.out.println(b2 % b1);
         var time = 640;
-        System.out.println(640/8);
-        System.out.println(640/8 + 94);
+        System.out.println(time/8);
+        System.out.println(time/8 + 94);
         System.out.println(174*8);
-
-
-
-
 
     }
     }
